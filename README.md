@@ -1,9 +1,9 @@
 # witchhouse
-occult golang
-ghostlang
+- occult golang
+- ghostlang
 
 rules
 =====
-1. everything is --deprecated--
-2. only programmed by candlelight
-3. attribution: a ghosts did it
+1. everything is ~~deprecated~~
+2. only programmed under candlelight
+3. attribution: a ghost did it
